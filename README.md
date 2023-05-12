@@ -1,2 +1,1 @@
-# om-to-cmod
-osu!mania Scroll Speed to Etterna CMod Converter Program made from Python
+huge thanks to [Evening](https://github.com/Eve-ning) for helping me
