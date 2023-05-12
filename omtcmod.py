@@ -1,7 +1,7 @@
 #welcome screen
 print('Hi, this program will convert your osu!mania scroll speed to etterna scroll speed')
 
-#ask for your data
+#asking for your data
 osu_mania_sp = int(input('\nPlease input your osu!mania scroll speed: '))
 etterna_recep = int(input('\nPlease input your Etterna Receptor Size: '))
 
