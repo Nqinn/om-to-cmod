@@ -9,4 +9,4 @@ etterna_recep = int(input('\nPlease input your Etterna Receptor Size: '))
 CMod = osu_mania_sp * 3200 / etterna_recep
 print('Your Etterna CMod is', CMod)
 
-next_calculation = input ('Type "Close" and Enter to Close the Program: ')
+next_calculation = input ('Press Enter to Close the Program: ')
